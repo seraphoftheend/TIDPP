@@ -6,7 +6,7 @@
   <script>
     alert( 'Hello, world!' );
 	alert( 'Hello, world!' );
-	alert( 'Hello, world!' );
+	alert( 'Hello, Milky Way!' );
 	alert( 'Hello, world!' );
   </script>
 
