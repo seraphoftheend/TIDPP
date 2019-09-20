@@ -6,8 +6,11 @@
   <script>
     alert( 'Hello, world!' );
 	alert( 'Hello, world!' );
+<<<<<<< HEAD
 	alert( 'Hello, Milky Way!' );
-	alert( 'Hello, world!' );
+=======
+	alert( 'Hi, world!' );
+>>>>>>> javascript
   </script>
 
 </body>
